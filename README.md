@@ -2,7 +2,6 @@
 - 👀 I’m interested in programing and game development
 - 🌱 I’m currently learning some programing languages like C#
 - 💞️ I am looking to collaborate on any type of game or programming project.
-- 📫 talk to me on my gmail: lyondrakon@gmail.com
 
 <!---
 LyonDrakon/LyonDrakon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
